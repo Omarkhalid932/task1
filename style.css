@@ -1,0 +1,94 @@
+/* div{
+    height: 150px;
+    width: calc(100% / 12);
+    background-color: brown;
+}
+.col-1 {width: calc(100% / 10/1);}
+.col-2 {width: calc(100% / 10/2);}
+.col-3 {width: calc(100% / 10/3);}
+.col-4 {width: calc(100% / 10/4);}
+.col-5 {width: calc(100% / 10/5);}
+.col-6 {width: calc(100% / 10/6);}
+.col-7 {width: calc(100% / 10/7);}
+.col-8 {width: calc(100% / 10/8);}
+.col-9 {width: calc(100% / 10/9);}
+.col-10 {width: calc(100% / 10/10);} */
+/* header{
+    height: 100vh;
+    background-image: url(../1st_CSS/image/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-top: 100px;
+}
+.header-card{
+    background-color: blanchedalmond;
+    padding: 5px;
+    border-radius: 10px;
+    position:absolute  ;
+    top: 70%;
+    right: 10%;
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+    background-color: chocolate;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9;
+    opacity: 0.2;
+}
+.nav {
+    height: 100px;
+    
+    background-color: brown;
+    position: fixed;
+    z-index: 9999;
+
+} */
+ /* div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 10% auto;
+ }
+ div:hover {
+    background-color: brown;
+
+ }
+ div h1 {
+    text-align: center;
+    display: none;
+ }
+ div:hover h1 {
+    color: azure;
+    display: block;
+ } */
+section{
+    width: 100%;
+    height: 500px;
+    background-image: url(../1st_CSS/image/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+div {
+    position: absolute;
+    top: 30px;
+    left: 20px;
+
+}
+div h6 {
+    color: blue;
+}
+div h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+.form {
+    text-align: right;
+    position: absolute;
+    top: 30px;
+    right: 20px;
+}
